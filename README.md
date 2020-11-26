@@ -8,7 +8,7 @@ But premier : envoyer massivement et de manière individuelle les notes à un (o
 
 ### Activation de l'API
 Rendez-vous sur 
-https://console.developers.google.com/apis pour activer l'API et télécharger le fichier `credentials.json` (à placer dans le même dossier que ce programme).
+https://console.developers.google.com/apis pour activer l'API et télécharger le fichier `credentials.json` (à placer dans le même dossier que ce programme, google peut vous l'avoir donné sous un autre nom).
 
 ### Modification du message générique
 Dans le script principal (`csvSend.py`), il y a quatre choses à renseigner :

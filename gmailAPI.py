@@ -130,7 +130,7 @@ def SendMessage(service, user_id, message):
 
 
 def authenticate():
-    """Authenticate using credential.json file
+    """Authenticate using credentials.json file
     """
     creds = None
     # The file token.pickle stores the user's access and refresh tokens, and is
