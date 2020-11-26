@@ -61,4 +61,4 @@ On peut demander au script d'ajouter une pièce jointe. Celle-ci doit être sous
 - nom1.prenom1.nom2.prenom2.pdf
 - nom1.prenom1.nom2.prenom2.....nomn.prenomn.pdf
 
-Les champs nom et prenom peuvent être inversés. Cela permet d'envoyer le même scan à deux étudiants qui ont travaillé en binôme dès que le fichier pdf est bien formatté.
+Les champs nom et prenom peuvent être inversés. Cela permet d'envoyer le même scan à deux étudiants qui ont travaillé en binôme dès que le fichier pdf est bien formaté.
